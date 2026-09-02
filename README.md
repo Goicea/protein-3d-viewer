@@ -37,6 +37,7 @@ Codul aplicației e scris în mai multe fișiere pentru că organizarea asta per
 Pentru că întreg proiectul e scris în python folosirea unor biblioteci diverse și eficiente e foarte confortabilă. E posibilă și dezvoltarea aplicației în viitor folosind alte biblioteci sau funcții noi care apar în cele deja folosite, pentru că la python comunitatea este foarte activă și deschisă să ajute alți membri cu muncă din trecut.
 
 | Bibliotecă suplimentară | Utilizare |
+|------------|-----------|
 | Biopython | Parsarea și referirea la orice obiect din structuri |
 | Streamlit | Interfața web |
 | Py3Dmol | Generarea structurii 3D și funcții de zoom, rotire |
