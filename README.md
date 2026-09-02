@@ -13,9 +13,9 @@ Structurile sunt preluate din baza de date **RCSB Protein Data Bank**, parse-uit
 Interfața aplicației este construită cu **Streamlit**.
 
 ## Interfață
-![Interfața aplicației](C:\Users\Matei\Desktop\Proiect info vara - proteine\Organizare\Documentatie\1.png)
-![](C:\Users\Matei\Desktop\Proiect info vara - proteine\Organizare\Documentatie\2.png)
-![](C:\Users\Matei\Desktop\Proiect info vara - proteine\Organizare\Documentatie\3.png)
+![Interfața aplicației](Documentatie\1.png)
+![](Documentatie\2.png)
+![](Documentatie\3.png)
 
 ## Funcționalități
 
